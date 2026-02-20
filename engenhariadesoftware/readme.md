@@ -10,21 +10,38 @@ Scale and Growth: How an organization will need to adapt as it evolves
 Trade-offs and Costs: How an organization makes decisions, based on the lessons of Time and Change and Scale and Growth
 
 
-                                                                                                Respostas
+                                                                                                                                        Respostas
+20/02/2026
 
-1.	De fato, os termos “engenharia de software” e “programação” vem sendo utilizados de forma bastante genérica nos últimos anos, sendo vistos como sinônimos para muitas pessoas, principalmente as mais leigas ou iniciantes da área.  
+1.	Comentar com suas palavras o primeiro trecho do livro Software Engineering at Google, Oreilly. (primeiro post)
+
+De fato, os termos “engenharia de software” e “programação” vem sendo utilizados de forma bastante genérica nos últimos anos, sendo vistos como sinônimos para muitas pessoas, principalmente as mais leigas ou iniciantes da área.  
 O objetivo principal da engenharia é identificar um problema que atrapalha ou impede a vida das pessoas em uma determinada circunstância, pensar em métodos para resolver ou mitigar o problema e, por fim, desenvolver uma solução. A programação, neste caso, seria vista como um método a ser utilizado para resolver algum problema ou adversidade. 
 
+2. Comentar com suas palavras o segundo trecho do livro Software Engineering at Google, Oreilly.(segundo post)
 
-2.	Os desafios propostos pelo parágrafo são recorrentes não só na área da engenharia de software, como também em várias outras áreas. Algumas das soluções que as empresas e funcionários encontram e colocam em prática são: Planejamento sólido, documentação, metodologias mais eficientes, etc.
+Os desafios propostos pelo parágrafo são recorrentes não só na área da engenharia de software, como também em várias outras áreas. Algumas das soluções que as empresas e funcionários encontram e colocam em prática são: Planejamento sólido, documentação, metodologias mais eficientes, etc.
 
+3. Listar e explicar 3 exemplos de tradeoffs
 
-
-3.	a) Prestação de serviço: Quando uma pessoa não tem capacitação, tempo ou afinidade para executar um determinado serviço ou reparo, a mesma contrata outra pessoa para o fazer.
+a) Prestação de serviço: Quando uma pessoa não tem capacitação, tempo ou afinidade para executar um determinado serviço ou reparo, a mesma contrata outra pessoa para o fazer.
    
 b) Tempo x Dinheiro: A pessoa trabalha mais horas para ter uma compensação maior em dinheiro (horas extras). 
 
 c) Produção x Qualidade: Um desafio inerente à praticamente todas as fábricas. Para obter o máximo de produção, a qualidade ficará comprometida, e se priorizar a qualidade, a produção será menor.
+
+20/02/2026
+
+3. Requisitos não funcionais 
+
+Requisitos não funcionais servem para descrever como um determinado sistema ou programa irá funcionar, ignorando o que ele irá fazer. 
+
+Listando 5 requisitos não funcionais: 
+a) Segurança: Um sistema deve possuir a segurança como uma das prioridades principais, principalmente se for um sistema que atuará com dados sensíveis ou até mesmo em áreas financeiras de uma determinada empresa, por exemplo. 
+b) Usabilidade: É interessante que o sistema seja de fácil uso e entendimento para a maioria dos usuários, mesmo para os que possuem menos afinidades com sistemas digitais.
+c) Confiabilidade: É de suma importante que o sistema seja, acima de tudo, confiável e estável em quase todas as circunstâncias. 
+d) Agilidade: O tempo de resposta de um programa ou sistema é um fator importante para muitas funcionalidades ou potenciais usuários.
+e) Robustez: Por fim, é interessante que o sistema tenha uma boa facilidade para resolver os erros em potencial.
 
 
 
