@@ -22,9 +22,9 @@ O objetivo principal da engenharia é identificar um problema que atrapalha ou i
 
 3.	a) Prestação de serviço: Quando uma pessoa não tem capacitação, tempo ou afinidade para executar um determinado serviço ou reparo, a mesma contrata outra pessoa para o fazer.
    
-b)Tempo x Dinheiro: A pessoa trabalha mais horas para ter uma compensação maior em dinheiro (horas extras). 
+b) Tempo x Dinheiro: A pessoa trabalha mais horas para ter uma compensação maior em dinheiro (horas extras). 
 
-c)Produção x Qualidade: Um desafio inerente à praticamente todas as fábricas. Para obter o máximo de produção, a qualidade ficará comprometida, e se priorizar a qualidade, a produção será menor.
+c) Produção x Qualidade: Um desafio inerente à praticamente todas as fábricas. Para obter o máximo de produção, a qualidade ficará comprometida, e se priorizar a qualidade, a produção será menor.
 
 
 
