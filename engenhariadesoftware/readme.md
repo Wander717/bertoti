@@ -10,7 +10,7 @@ Scale and Growth: How an organization will need to adapt as it evolves
 Trade-offs and Costs: How an organization makes decisions, based on the lessons of Time and Change and Scale and Growth
 
 
-                                                                                                                                        Respostas
+                                        Respostas
 20/02/2026
 
 1.	Comentar com suas palavras o primeiro trecho do livro Software Engineering at Google, Oreilly. (primeiro post)
@@ -43,5 +43,23 @@ c) Confiabilidade: É de suma importante que o sistema seja, acima de tudo, conf
 d) Agilidade: O tempo de resposta de um programa ou sistema é um fator importante para muitas funcionalidades ou potenciais usuários.
 e) Robustez: Por fim, é interessante que o sistema tenha uma boa facilidade para resolver os erros em potencial.
 
+
+23/02/2026
+
+5. É possível testar tudo? 
+    int blench (int j) {
+        j = j-1; //deveria ser j+1
+        j = j/30000
+        return j;
+    }
+    -32768 até +32767
+
+a) Quantas entradas mostram o erro? 
+b) Quais são? 
+
+                                        Respostas
+
+a) 4 entradas
+b) +30000, -30000, 29999, -29999
 
 
