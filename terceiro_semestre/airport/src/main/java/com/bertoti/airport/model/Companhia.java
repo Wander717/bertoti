@@ -24,11 +24,7 @@ public class Companhia {
     @OneToMany(mappedBy = "companhia", cascade = CascadeType.ALL)
     private List<Passageiro> passageiros = new ArrayList<>();
 
-    protected Companhia() {
-    }
-
-    public Companhia(String nome) {
-        this.nome = nome;
+    public Companhia() {
     }
 
     public String getId() { return id; }
