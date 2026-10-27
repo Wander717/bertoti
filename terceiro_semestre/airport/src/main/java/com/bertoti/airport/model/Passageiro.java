@@ -28,15 +28,7 @@ public class Passageiro {
     @JsonIgnoreProperties({"avioes", "passageiros"})
     private Companhia companhia;
 
-    protected Passageiro() {
-    }
-
-    public Passageiro(String nome, String cpf, String passagem, double peso, Companhia companhia) {
-        this.nome = nome;
-        this.cpf = cpf;
-        this.passagem = passagem;
-        this.peso = peso;
-        this.companhia = companhia;
+    public Passageiro() {
     }
 
     public String getId() { return id; }
