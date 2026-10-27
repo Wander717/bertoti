@@ -29,16 +29,7 @@ public class Aviao {
     @JsonIgnoreProperties({"avioes", "passageiros"})
     private Companhia companhia;
 
-    protected Aviao() {
-    }
-
-    public Aviao(String nome, String prefixo, double peso, int anoFabricacao, int capacidadePassageiros, Companhia companhia) {
-        this.nome = nome;
-        this.prefixo = prefixo;
-        this.peso = peso;
-        this.anoFabricacao = anoFabricacao;
-        this.capacidadePassageiros = capacidadePassageiros;
-        this.companhia = companhia;
+    public Aviao() {
     }
 
     public String getId() { return id; }
