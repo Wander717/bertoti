@@ -3,39 +3,34 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Teste de API - Companhias</title>
+  <title>Aeroporto - Cadastro</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Companhias (API REST)</h1>
+  <header>
+    <h1>Aeroporto</h1>
+    <p>Cadastro de companhias, aviões e passageiros</p>
+  </header>
 
   <section>
-    <h2>Formulário</h2>
-    <form id="form">
-      <label>ID (para GET por ID, PUT e DELETE):
-        <input id="id" placeholder="cole o id aqui">
-      </label>
-      <label>Nome:
-        <input id="nome" required>
-      </label>
-      <label>Quantidade de passageiros:
-        <input id="quantidade" type="number" min="0" value="0">
-      </label>
-
-      <div class="botoes">
-        <button type="button" id="btnGet">GET (todas)</button>
-        <button type="button" id="btnGetId">GET por ID</button>
-        <button type="submit">POST (criar)</button>
-        <button type="button" id="btnPut">PUT (atualizar)</button>
-        <button type="button" id="btnDelete">DELETE</button>
-      </div>
-    </form>
+    <h2>Companhias</h2>
+    <form id="form-companhias"></form>
+    <p class="msg" id="companhias-msg"></p>
+    <div id="companhias-lista"></div>
   </section>
 
   <section>
-    <h2>Resposta</h2>
-    <p id="status"></p>
-    <pre id="saida"></pre>
+    <h2>Aviões</h2>
+    <form id="form-avioes"></form>
+    <p class="msg" id="avioes-msg"></p>
+    <div id="avioes-lista"></div>
+  </section>
+
+  <section>
+    <h2>Passageiros</h2>
+    <form id="form-passageiros"></form>
+    <p class="msg" id="passageiros-msg"></p>
+    <div id="passageiros-lista"></div>
   </section>
 
   <script src="script.js"></script>
